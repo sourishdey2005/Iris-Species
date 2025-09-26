@@ -292,7 +292,7 @@ model_loaded.b2 = data['b2']
 # Evaluate loaded model
 y_pred_loaded = model_loaded.predict(X_test_scaled)
 acc_loaded = accuracy_score(np.argmax(y_test_oh, axis=1), y_pred_loaded)
-print(f'✅ Loaded Model Test Accuracy: {acc_loaded:.4f}')
+print(f' Loaded Model Test Accuracy: {acc_loaded:.4f}')
 ```
 
 ---
@@ -348,6 +348,6 @@ MIT License © 2024 Iris Classification Project
 ## 📞 Contact
 
 * **Author:** Sourish Dey
-* **Email:** (mailto:sourish713321@gmail.com)
-* **LinkedIn:** [Your Profile](https://www.linkedin.com/in/sourish-dey-20b170206/)
+* **Email:** (sourish713321@gmail.com)
+* **LinkedIn:** [Sourish Dey ](https://www.linkedin.com/in/sourish-dey-20b170206/)
 * **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
