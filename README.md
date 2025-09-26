@@ -350,4 +350,4 @@ MIT License © 2024 Iris Classification Project
 * **Author:** Sourish Dey
 * **Email:** (sourish713321@gmail.com)
 * **LinkedIn:** [Sourish Dey ](https://www.linkedin.com/in/sourish-dey-20b170206/)
-* **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+* **Instagram:** [Sourish Dey](https://www.instagram.com/sourish_dey_/)
